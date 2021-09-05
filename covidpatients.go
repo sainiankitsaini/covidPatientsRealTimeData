@@ -368,6 +368,7 @@ func main() {
 	storeCovidDataInMongo(responseData, client, ctx)
 
 	province := getStateOnCoordinateBasis()
+	//check handling when coordinates from outside india
 	if province == "" {
 		fmt.Println("No state Found on basis of input coordinates")
 		return
