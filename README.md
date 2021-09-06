@@ -30,10 +30,20 @@ go get "go.mongodb.org/mongo-driver/mongo/readpref"
 
 ```
 ## Screenshots
+#### When Manual Coordinates Entered:
+Example - UP State coordinates (https://www.google.com/search?q=up+state+coordinates&sxsrf=AOaemvJ90tGQp0fAwy5n5wgksWPoJkkuog%3A1630873748317&ei=lCg1YaTgEvvbz7sP696RwAo&oq=up+state+coordinates&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjELADECc6BwgAEEcQsANKBAhBGABQ-InZAVjrjtkBYOyR2QFoAXACeACAAZQCiAH1CpIBAzItNpgBAKABAcgBCcABAQ&sclient=gws-wiz&ved=0ahUKEwik-sOT1ujyAhX77XMBHWtvBKgQ4dUDCA4&uact=5)
 
 ![Alt text](/images/china.png?raw=true "Outside India Coordinates")
+
+#### When No Manual Coordinates Entered:
+Use Default Coordinates (hardcoded in code)
+
 ![Alt text](/images/haryana.png?raw=true "Default Coordinates")
-![Alt text](/goProject/images/up.png?raw=true "Coordinates Input Manually")
+
+#### When Manual Coordinates Entered:
+Example- China Coordinates Entered
+
+![Alt text](/images/up.png?raw=true "Coordinates Input Manually")
 
 
 ## Contributing
