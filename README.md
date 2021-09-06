@@ -31,8 +31,8 @@ go get "go.mongodb.org/mongo-driver/mongo/readpref"
 ```
 ## Screenshots
 
-![Alt text](/goProject/images/china.png?raw=true "Outside India Coordinates")
-![Alt text](/goProject/images/haryana.png?raw=true "Default Coordinates")
+![Alt text](/images/china.png?raw=true "Outside India Coordinates")
+![Alt text](/images/haryana.png?raw=true "Default Coordinates")
 ![Alt text](/goProject/images/up.png?raw=true "Coordinates Input Manually")
 
 
